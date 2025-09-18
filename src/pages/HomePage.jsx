@@ -339,13 +339,13 @@ export default function HomePage() {
               Contact Information
             </h3>
             <p className="text-yellow-500 text-1xl">
-              <strong>Email:</strong> info@ridhisidhi.com
+              <strong>Email:</strong> riddhisiddhiconsultancy907@gmail.com
             </p>
             <p className="text-yellow-500 text-1xl">
-              <strong>Phone:</strong> +91 98765 43210
+              <strong>Phone:</strong> +91 93142 10149 | +91 978519 55228
             </p>
             <p className="text-yellow-500 text-1xl">
-              <strong>Address:</strong> 123, Luxury Street, Mumbai, India
+              <strong>Address:</strong>D-91, Indra Nagar, Opp. BSNL Office Near Mandawa Mode, Jhunjhunu (Raj.)
             </p>
           </motion.div>
 
