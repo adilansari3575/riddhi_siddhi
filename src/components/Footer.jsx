@@ -88,7 +88,7 @@ export default function Footer() {
 
       {/* Footer Bottom */}
       <div className="text-center mt-8 text-yellow-200 text-sm">
-        © {new Date().getFullYear()} Ridhi-Sidhi Consultancy. All Rights Reserved. <br /> Designed & Developed By Infinite Graphic Storage
+        © {new Date().getFullYear()} Ridhi-Siddhi Consultancy. All Rights Reserved. <br /> Designed & Developed By Infinite Graphic Storage
       </div>
     </footer>
   );
